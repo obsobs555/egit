@@ -9,6 +9,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("你好");
 		System.out.println("欧巴桑");
+		System.out.println("今天过得好吗？");
 	}
 
 }
